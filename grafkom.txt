@@ -1,0 +1,3 @@
+https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
+
+https://ariefrahmansyah.wordpress.com/2013/06/16/pemasangan-glut-pada-codeblocks/
